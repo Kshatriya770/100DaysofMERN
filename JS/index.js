@@ -2,7 +2,6 @@
 console.log('Hello World');
 
 let name = 'Saurabh';
-
 let age = 30; //number literal
 let isApproved = false; //boolean 
 
