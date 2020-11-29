@@ -3,14 +3,20 @@ console.log('Hello World');
 
 let name = 'Saurabh';
 let age = 30; //number literal
-let isApproved = false; //boolean 
+let isApproved = false; //boolean
+let person = {
+    name: 'Pankaj',
+    age: 15
+} 
+person.name = "Yu"
+console.log(person);
+
 
 console.log(name);
 //cannot be a reserved keyword
 //should be meaningful
 //cannot start with a number
 //js is case sensitive
-//
 
 let firstName = 'Saurabh',lastName = 'Singh';
 
