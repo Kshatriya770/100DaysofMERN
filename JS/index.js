@@ -2,6 +2,10 @@
 console.log('Hello World');
 
 let name = 'Saurabh';
+
+let age = 30; //number literal
+let isApproved = false; //boolean 
+
 console.log(name);
 //cannot be a reserved keyword
 //should be meaningful
